@@ -3,6 +3,13 @@ App oficial del foro
 Sería un cliente del foro. La idea es ir agregando funcionalidades.
 
 
+Capturas
+-------
+![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-1.jpeg "APP - Main")
+
+![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-2.jpeg "KIMS - Menu")
+
+
 FAQ
 -------
 - ¿Por qué no está publicada?
