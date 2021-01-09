@@ -5,9 +5,9 @@ Sería un cliente del foro. La idea es ir agregando funcionalidades.
 
 Capturas
 -------
-![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-1.jpeg "APP - Main")
+![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-1.png "APP - Main")
 
-![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-2.jpeg "KIMS - Menu")
+![alt text](https://raw.githubusercontent.com/indetectables-net/official-app/master/assets/image-2.png "APP - Menu")
 
 
 FAQ
@@ -33,3 +33,4 @@ Changelog
 - 1.0.0: Lanzamiento de la app
 - 1.1.0: Fix en autologin
 - 1.2.0: Mejoras en el código y agregados datos del usuario en el sidebar
+- 1.3.0: Refactor y soporte para la nueva version de la comunidad
