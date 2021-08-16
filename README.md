@@ -34,3 +34,4 @@ Changelog
 - 1.1.0: Fix en autologin
 - 1.2.0: Mejoras en el código y agregados datos del usuario en el sidebar
 - 1.3.0: Refactor y soporte para la nueva version de la comunidad
+- 1.4.0: Nuevo motor JS y agragado onclick del logo
